@@ -1,5 +1,5 @@
 setChartLibrary('google-chart');
-setChartTitle('Sensors' DATA");
+setChartTitle("Sensors:DATA");
 var Graph1=new boltGraph();
 Graph1.setChartType('tableGraph');
 mul(0.0977);
